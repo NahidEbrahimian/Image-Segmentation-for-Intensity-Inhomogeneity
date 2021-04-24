@@ -3,6 +3,6 @@ Image Segmentation for Intensity Inhomogeneity in Presence of High Noise - defor
 
 #Result
 
-#[result01](https://github.com/n-ebrahimian/Image-Segmentation-for-Intensity-Inhomogeneity/blob/master/result01.jpg)
+#![result01](https://github.com/n-ebrahimian/Image-Segmentation-for-Intensity-Inhomogeneity/blob/master/result01.jpg)
 
-#[result03](https://github.com/n-ebrahimian/Image-Segmentation-for-Intensity-Inhomogeneity/blob/master/result03.jpg)
+![result03](https://github.com/n-ebrahimian/Image-Segmentation-for-Intensity-Inhomogeneity/blob/master/result03.jpg)
