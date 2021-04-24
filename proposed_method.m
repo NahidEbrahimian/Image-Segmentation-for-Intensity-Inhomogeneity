@@ -10,6 +10,7 @@ meu=0.000005*len*wit;
 subplot(1,3,2)
 imshow(Z0,[])
 
+
 % subplot(1,3,3)
 % imshow(Z0,[])
 % hold on

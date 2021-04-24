@@ -10,6 +10,7 @@ epsilon = 1;
 subplot(1,3,2)
 imshow(Z0,[])
 
+
 for itr =1:iteration
     
     hold on

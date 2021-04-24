@@ -7,6 +7,7 @@ function pts = readPoints(image, n)
 %   column is [X; Y] for one point.
 %
 %   POINTS = READPOINTS(IMAGE, N) reads up to N points only.
+
 if nargin < 2
     n = Inf;
     pts = zeros(2, 0);

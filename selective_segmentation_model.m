@@ -5,7 +5,6 @@ epsilon=1;
 w = abs(4*sigma+1);
 kernel = fspecial('gaussian', w,sigma);
 
-
 pts = readPoints(Z0, 13);
 x=round(pts(1,:));
 y=round(pts(2,:));
